@@ -17,7 +17,7 @@ SquirrelEmail is a Chrome extension designed to make collecting email addresses 
 
 Unlock the full potential of **SquirrelEmail** by purchasing it on BuyMeACoffee. By doing so, you not only support further development but also gain the exclusive rights to modify, customize, and utilize the extension to its fullest extent.
 
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=your-coffee-link&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://your-coffee-link-here.com)
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=your-coffee-link&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/kh.abdelhakim/e/161216)
 
 Thank you for your interest in **SquirrelEmail** and for supporting its continued growth. Let's shape the future of web productivity together!
 
