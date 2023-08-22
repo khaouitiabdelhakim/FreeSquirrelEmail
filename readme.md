@@ -2,7 +2,7 @@
 
 Collects emails from the current webpage and saves them to a text file.
 
-![SquirrelEmail Logo](images/icon128.png)
+![SquirrelEmail Logo](images/iconbig128.png)
 
 ## Description
 
